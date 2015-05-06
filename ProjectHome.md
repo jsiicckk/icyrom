@@ -1,0 +1,1 @@
+We create Custom ROMS for Android Phones. We are still working at the Icy Rom Speed for the Huawei Ideos X3. Soon we want to realease the Rom for different Phones & Tablets.
